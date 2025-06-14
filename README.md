@@ -32,7 +32,7 @@ A simple React Native app to create and manage service bookings (like Haircut, M
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/booking-app.git
+git clone https://github.com/MrCandie/frulo-booking
 cd booking-app
 ```
 
